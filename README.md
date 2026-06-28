@@ -6,8 +6,7 @@
 
 ## 🔗 Live Preview
 
-> Deploy this file to GitHub Pages or any static hosting service to go live.
-> Update the GitHub link placeholder (`YOUR_GITHUB_USERNAME`) in `index.html` before deploying.
+https://gsk047.github.io/Portfolio/
 
 ---
 
